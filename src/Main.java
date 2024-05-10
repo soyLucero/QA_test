@@ -3,6 +3,9 @@ public class Main {
 
 
         System.out.println("HOLA LIMA_PERU");
+
+        System.out.println("HOLA Peru, como estas?");
+        System.out.println("Hoy es viernes, ultimo dia");
         for(int i=100; i<=130; i=i+2){
             //System.out.println("Hola: " + i);
         }
