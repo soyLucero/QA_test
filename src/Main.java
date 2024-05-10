@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-
+//modificado en la web #1
         System.out.println("HOLA LIMA_PERU");
 
         System.out.println("HOLA Peru, como estas?");
@@ -13,7 +13,7 @@ public class Main {
         for(int i=100; i>=0; i--){
             //System.out.println("Hola: " + i);
         }
-
+//modificado en la web #2
         int n = 3;
         for(int i=1; i<=10-n; i++){
            // System.out.println("Hola: " + i);
